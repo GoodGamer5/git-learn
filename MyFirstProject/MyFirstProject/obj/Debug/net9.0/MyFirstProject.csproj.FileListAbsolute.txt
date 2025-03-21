@@ -1,0 +1,14 @@
+D:\My work\git-ex\MyFirstProject\MyFirstProject\bin\Debug\net9.0\MyFirstProject.exe
+D:\My work\git-ex\MyFirstProject\MyFirstProject\bin\Debug\net9.0\MyFirstProject.deps.json
+D:\My work\git-ex\MyFirstProject\MyFirstProject\bin\Debug\net9.0\MyFirstProject.runtimeconfig.json
+D:\My work\git-ex\MyFirstProject\MyFirstProject\bin\Debug\net9.0\MyFirstProject.dll
+D:\My work\git-ex\MyFirstProject\MyFirstProject\bin\Debug\net9.0\MyFirstProject.pdb
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.AssemblyInfoInputs.cache
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.AssemblyInfo.cs
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.csproj.CoreCompileInputs.cache
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.dll
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\refint\MyFirstProject.dll
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.pdb
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\MyFirstProject.genruntimeconfig.cache
+D:\My work\git-ex\MyFirstProject\MyFirstProject\obj\Debug\net9.0\ref\MyFirstProject.dll
